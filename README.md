@@ -1,10 +1,8 @@
 # Indian-passlist
 
 
-# Find me on 
-
 Instagram account
-👉[![Instagram  ](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubhamg0sain)👈
+👉[![Instagram  ](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubhamg0sai)👈](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubhamg0sain)👈
 
 Whenever you want to brute force, you find or create a suitable wordlist.
 Same happened to me also when I searched the internet for wordlists I found very awesome ones but mostly they were from foreign countries and people in my country (India) are less likely to keep those as passwords which are more personalized because of the user’s region.
